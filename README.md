@@ -1,2 +1,2 @@
 # Deep Dive
-*A simple web browser
+A simple web browser
